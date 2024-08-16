@@ -1,0 +1,9 @@
+path: ../dataset_split 
+train: images/train  
+test:  images/test 
+val:   images/val
+
+nc: 2
+names: ['closed', 'opened']
+
+
